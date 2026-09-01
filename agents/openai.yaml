@@ -1,0 +1,4 @@
+interface:
+  display_name: "网易 MCMod 项目规范"
+  short_description: "网易 MCMod 项目的目录、代码与打包规范"
+  default_prompt: "在网易 MCMod 项目中按项目目录、命名、注释和打包规范完成代码修改。"
